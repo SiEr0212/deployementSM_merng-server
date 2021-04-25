@@ -1,0 +1,4 @@
+node_modules
+config.js
+.env
+client/src/base.js
